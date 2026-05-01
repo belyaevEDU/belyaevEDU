@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Belyaev Veniamin
 
-<!--
-**belyaevEDU/belyaevEDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main interest is DevOps engineering.
+Proficient in: Python, Java (Core, Collections, Stream), Git
+Have experience with:
+- Git-related: GitLab, GitHub
+- CI/CD: Jenkins, GitHub Actions
+- Infra: K8s basics, Ansible
+- Admin: Bash scripting, Linux, Networking basics, Virtualization, Containers (Docker & Podman)
+Actively learning: Java Concurrency, k8s, Ansible, Networking, Protocols
 
-Here are some ideas to get you started:
+Languages: Russian (native), English (fluent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me: veniamin@belyaev.work
