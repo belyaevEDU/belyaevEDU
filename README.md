@@ -9,7 +9,7 @@ Have experience with:
 - CI/CD: Jenkins, GitHub Actions
 - Infra: K8s basics, Ansible
 - Admin: Bash scripting, Linux, Networking basics, Virtualization, Containers (Docker & Podman)
-- Backend: Java Spring, REST API
+- Backend: Java w/ Spring & Maven, REST API
 
 Actively learning: Java concurrency, K8s, Ansible, Networking, Protocols
 
