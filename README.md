@@ -10,8 +10,9 @@ Have experience with:
 - Infra: K8s basics, Ansible
 - Admin: Bash scripting, Linux, Networking basics, Virtualization, Containers (Docker & Podman)
 - Backend: Java w/ Spring & Maven, REST API
+- DB: SQL
 
-Actively learning: Java concurrency, K8s, Ansible, Networking, Protocols
+Actively learning: Java concurrency, K8s, Ansible, Networking, Protocols, Databases
 
 Languages: Russian (native), English (fluent)
 
