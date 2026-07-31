@@ -10,7 +10,7 @@ Have experience with:
 - Infra: K8s basics, Cilium (as CNI & Ingress controller), Ansible
 - Admin: Bash scripting, Linux, Networking basics, Virtualization, Containers (Docker & Podman)
 - Backend: Java w/ Spring & Maven, REST API, Golang
-- DB: SQL, PostgreSQL, Redis
+- DB: SQL, PostgreSQL
 
 Actively learning: Golang, Java concurrency, K8s, Ansible, Networking, Protocols, Databases
 
