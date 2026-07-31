@@ -1,6 +1,6 @@
 👋 Hi, I'm Belyaev Veniamin
 
-My main interests are DevOps engineering and Backend development.
+My main interests are Backend development and DevOps engineering.
 
 Proficient in: Python, Java (Core, Collections, Stream), Git
 
