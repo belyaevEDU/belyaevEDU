@@ -9,7 +9,8 @@ Have experience with:
 - CI/CD: Jenkins, GitHub Actions
 - Infra: K8s basics, Cilium (as CNI & Ingress controller), Ansible
 - Admin: Bash scripting, Linux, Networking basics, Virtualization, Containers (Docker & Podman)
-- Backend: Java w/ Spring & Maven, REST API, Golang
+- Backend-related: Java w/ Spring & Maven, REST API, Golang
+- Testing: Golang's testing pkg, [mockery](https://vektra.github.io/mockery/latest/); JUnit, Mockito, JaCoCo; Postman
 - DB: SQL, PostgreSQL
 
 Actively learning: Golang, Java concurrency, K8s, Ansible, Networking, Protocols, Databases
