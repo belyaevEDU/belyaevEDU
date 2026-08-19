@@ -11,7 +11,7 @@ Have experience with:
 - Admin: Bash scripting, Linux, Networking basics, Virtualization, Containers (Docker & Podman)
 - Backend-related: Java w/ Spring & Maven, REST API, Golang
 - Testing: Golang's testing pkg, [mockery](https://vektra.github.io/mockery/latest/); JUnit, Mockito, JaCoCo; Postman
-- DB: SQL, PostgreSQL
+- DB: SQL
 
 Actively learning: Golang, Java concurrency, K8s, Ansible, Networking, Protocols, Databases
 
