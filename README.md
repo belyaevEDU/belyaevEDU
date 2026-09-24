@@ -13,7 +13,7 @@ Have experience with:
 - Testing: Golang's testing pkg, mockery; JUnit, Mockito, JaCoCo; Postman
 - DB: SQL, PostgreSQL, Redis
 
-Actively learning: Golang, Java concurrency, K8s, Ansible, Networking, Protocols, Databases
+Actively learning: Golang, K8s, Cloud Engineering, Ansible, Networking, Protocols, Databases
 
 Languages: Russian (native), English (fluent)
 
