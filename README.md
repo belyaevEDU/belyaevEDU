@@ -7,7 +7,7 @@ Proficient in: Python, Java (Core, Collections, Stream), Git
 Have experience with:
 - Git-related: GitLab, GitHub
 - CI/CD: Jenkins, GitHub Actions
-- Infra: K8s basics, Cilium (as CNI & Ingress controller), Ansible
+- Infra: Yandex Cloud, K8s, Cilium (as CNI & Ingress controller), Ansible
 - Admin: Bash scripting, Linux, Networking basics, Virtualization, Containers (Docker & Podman)
 - Backend-related: Java w/ Spring & Maven, REST API, Golang
 - Testing: Golang's testing pkg, mockery; JUnit, Mockito, JaCoCo; Postman
