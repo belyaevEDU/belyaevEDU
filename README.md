@@ -2,7 +2,7 @@
 
 My main interests are Backend development and DevOps engineering.
 
-Proficient in: Python, Java (Core, Collections, Stream), Git
+Proficient in: Python, Java (Core, Collections, Stream), Git, Golang
 
 Have experience with:
 - Git-related: GitLab, GitHub
@@ -13,7 +13,7 @@ Have experience with:
 - Testing: Golang's testing pkg, mockery; JUnit, Mockito, JaCoCo; Postman
 - DB: SQL, PostgreSQL, Redis
 
-Actively learning: Golang, K8s, Cloud Engineering, Ansible, Networking, Protocols, Databases
+Actively learning: Enterprise architecture, K8s, Cloud Engineering, Ansible, Networking, Protocols, Databases
 
 Languages: Russian (native), English (fluent)
 
